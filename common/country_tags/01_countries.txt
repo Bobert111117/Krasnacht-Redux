@@ -1,0 +1,5 @@
+SAR = "countries/Sarawak.txt"
+DEI = "countries/VOC.txt"
+CEN = "countries/Centroamerica.txt"
+WCO = "countries/North Congo.txt"
+KTA = "countries/Katanga.txt"

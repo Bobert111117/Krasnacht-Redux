@@ -1,0 +1,7 @@
+
+
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+#color = { 0  128  0 } #white with a bit of red
+color = { 204  204  0 } #green

@@ -1,0 +1,15 @@
+ideas = {
+ country = {
+  mc_major = {
+   removal_cost = -1
+   allowed = {
+   }
+   picture = idea_generic_free_trade
+   modifier = {
+    surrender_limit = 0.1
+    trade_opinion_factor = 0.5
+    defensive_war_stability_factor = 0.5
+    improve_relations_cost_factor = 0.5
+    political_power_factor = 1 
+   }
+  }

@@ -1,0 +1,40 @@
+IRE_occupation_mandate = {
+	color = rgb { 208 12 39 }
+	color_ui = rgb { 104 207 117 }
+}
+GER_unified = {
+	color = rgb { 163 55 55 }
+	color_ui = rgb { 104 207 117 }
+}
+KTA_green = {
+	color = rgb { 163 193 117 }
+	color_ui = rgb { 37 140 61 }
+}
+WCO_red = {
+	color = rgb { 180 65 65 }
+	color_ui = rgb { 37 140 61 }
+}
+IVO_green = {
+	color = rgb { 118 204 143 }
+	color_ui = rgb { 37 140 61 }
+}
+VOL_orange = {
+	color = rgb { 255 138 71 }
+	color_ui = rgb { 37 140 61 }
+}
+NGR_orange = {
+	color = rgb { 255 155 45 }
+	color_ui = rgb { 37 140 61 }
+}
+GNA_green = {
+	color = rgb { 98 184 113 }
+	color_ui = rgb { 37 140 61 }
+}
+SEN_green = {
+	color = rgb { 68 144 173 }
+	color_ui = rgb { 37 140 61 }
+}
+PRE_rose = {
+	color = rgb { 0 127 14 }
+	color_ui = rgb { 0 127 14 }
+}
